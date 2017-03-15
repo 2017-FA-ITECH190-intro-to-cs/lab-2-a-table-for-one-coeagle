@@ -3,7 +3,7 @@
 ## Lab 2 - A Table
 
 
-**Purpose:** This purpose of this lab is to expand on basic \textit{HTML}, adding use of tables and inline style attributes.
+**Purpose:** This purpose of this lab is to expand on basic _HTML_, adding use of tables and inline style attributes.
 
 **Instructions:** Create an web page which will outline a fictional student class schedule. The columns should be the days of the week, and the rows should be the hours of the day. Tags you should utilize include &lt;table&gt;, &lt;tr&gt;, &lt;th&gt;, and &lt;td&gt;. You should also use appropriate inline and embedded styles, as discussed in class. Here is the schedule that you will render:
 
