@@ -1,6 +1,6 @@
 # Introduction to Computer Science - Fall 2017
 
-## Lab 2 - A Table
+## Lab 2 - A Table For One
 
 
 **Purpose:** This purpose of this lab is to expand on basic _HTML_, adding use of tables and inline style attributes.
